@@ -12,7 +12,7 @@
 
 Soy una estudiante de ADSO en el SENA con interés en el desarrollo de aplicaciones web, bases de datos y metodologías ágiles. Me gusta aprender nuevas tecnologías, trabajar en equipo y participar en proyectos que aporten soluciones reales a los usuarios.
 
-* 🎓 Estudiante ADSO \- SENA (4° trimestre)  
+* 🎓 Estudiante ADSO \- SENA (6° trimestre)  
 * 🌱 Aprendiendo continuamente nuevas tecnologías  
 * 💡 Interesada en Desarrollo Web Full Stack  
 * 🤝 Experiencia en trabajo colaborativo y metodologías ágiles  
@@ -48,7 +48,7 @@ Soy una estudiante de ADSO en el SENA con interés en el desarrollo de aplicacio
 
 ## **📊 Estadísticas GitHub**
 
-Reemplaza **TU\_USUARIO** por tu usuario real de GitHub.
+vannesasanabria83-sudo
 
 ---
 
@@ -98,11 +98,11 @@ Aplicación CRUD desarrollada con Node.js para la administración eficiente de r
 
 ## **🌐 Conecta conmigo**
 
-📧 Correo: tu-correo@ejemplo.com
+📧 Correo: vannesasanabria83@gmail.com
 
 💼 LinkedIn: [www.linkedin.com/in/tu-perfil](http://www.linkedin.com/in/tu-perfil)
 
-🐙 GitHub: [https://github.com/TU\_USUARIO](https://github.com/TU_USUARIO)
+🐙 GitHub: [https://github.com/TU\_USUARIO](https://github.com/vannesasanabria83-sudo)
 
 ---
 

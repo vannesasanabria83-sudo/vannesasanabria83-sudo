@@ -1,161 +1,201 @@
-# 👩‍💻 Sharith Moreno | Software Developer
+# ✦ SHARITH MORENO
+### Software Developer in Training | Web Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Software+Development+Student;Frontend+%26+Backend+Enthusiast;Building+solutions+through+code;Always+learning%2C+always+growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=F5B942&center=true&vCenter=true&width=700&lines=Analista+y+Desarrolladora+de+Software;Frontend+%26+Backend+Development;Building+digital+solutions;Learning%2C+creating+and+growing" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vannesasanabria83-sudo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/SENA-Estudiante_ADSO-000000?style=for-the-badge&labelColor=F5B942" />
+  <img src="https://img.shields.io/badge/Software_Development-000000?style=for-the-badge&logo=code&logoColor=F5B942" />
+  <img src="https://img.shields.io/badge/Open_to_Internships-000000?style=for-the-badge&logo=handshake&logoColor=F5B942" />
+</p>
+
+<p align="center">
   <a href="mailto:vannesasanabria83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-F5B942?style=for-the-badge&logo=gmail&logoColor=000000" />
   </a>
   <a href="https://www.linkedin.com/in/TU-PERFIL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F5B942" />
+  </a>
+  <a href="https://github.com/vannesasanabria83-sudo">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=F5B942" />
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 01. ABOUT ME | SOBRE MÍ
 
-I'm a Software Development student at **SENA (Colombia)**, currently in my sixth academic term, with a strong interest in web development, software engineering and database management.
+Soy estudiante de **Análisis y Desarrollo de Software (ADSO) en el SENA**, actualmente en sexto trimestre, con interés en el desarrollo web, la programación y la gestión de bases de datos.
 
-I enjoy transforming ideas into functional digital solutions, exploring new technologies and participating in collaborative projects where I can apply my knowledge and continue growing as a developer.
+Me apasiona construir soluciones tecnológicas que respondan a necesidades reales, participar en proyectos de desarrollo y transformar ideas en aplicaciones funcionales.
 
-I'm currently looking for an opportunity to complete my professional internship, contribute to a development team and gain real-world experience.
+Durante mi formación he participado en proyectos académicos individuales y colaborativos, fortaleciendo mis conocimientos en desarrollo frontend, backend, diseño de interfaces, bases de datos y control de versiones.
 
-- 🎓 Software Analysis and Development – SENA.
-- 💻 Interested in Full Stack Development.
-- 🌱 Continuously learning and improving my technical skills.
-- 🤝 Enjoy collaborative environments and teamwork.
-- 🚀 Motivated by challenges and problem-solving.
+Actualmente busco una oportunidad para realizar mis prácticas profesionales, aportar mis conocimientos a un equipo de trabajo y continuar creciendo en el entorno tecnológico.
 
-## 🛠️ Technical Skills
+**Mi enfoque profesional:** Desarrollo Web | Full Stack Development | Software Engineering.
 
-### 💻 Programming Languages
+---
+
+## 02. TECH STACK | HABILIDADES TÉCNICAS
+
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,django,nodejs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=laravel,django,bootstrap,nodejs" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🔧 Development Tools
+### Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-## 🧠 Professional Skills
+### Additional Technologies
 
-- **Teamwork:** Collaboration and contribution toward shared objectives.
-- **Communication:** Willingness to share ideas and listen to different perspectives.
-- **Adaptability:** Ability to learn and adjust to new tools and environments.
-- **Responsibility:** Commitment to assigned tasks and project objectives.
-- **Problem-solving:** Analytical thinking and interest in finding practical solutions.
-- **Continuous learning:** Proactive attitude toward professional development.
-
-## 📂 Featured Projects
-
-### 🐾 EDEApro – Pet Grooming Management System
-
-Web application designed to support the management of a pet grooming business, including appointment scheduling and administrative processes.
-
-**My contribution:**
-- Frontend development and interface design.
-- Construction and styling of web interfaces.
-- Implementation of interactive elements.
-- Collaboration with the development team.
-
-**Technologies:** HTML5 · CSS3 · JavaScript · Bootstrap · Laravel · MySQL
-
-[🔗 View Repository](https://github.com/celisfelipe/edeapro)
+- FullCalendar
+- Tailwind CSS
+- Vite
+- REST API
+- Docker
 
 ---
 
-### 🚗 Veloce Motors
+## 03. PROFESSIONAL SKILLS | HABILIDADES BLANDAS
 
-Web development project focused on the automotive sector, created to put software development knowledge into practice through the construction of a complete web solution.
+Más allá del código, considero que el desarrollo de software requiere comunicación, compromiso y capacidad de adaptación.
 
-**My contribution:**
-- Development and integration of the project.
-- Interface construction and styling.
-- Implementation of interactive functionality.
-- Organization and version control using Git.
-
-**Technologies:** HTML · CSS · JavaScript · [Add the actual backend and database technologies used]
-
-[🔗 View Repository](https://github.com/vannesasanabria83-sudo/Veloce-Moters)
-
----
-
-### 📦 BODESTOCK – Inventory Management System
-
-Academic software project focused on inventory management and business record administration.
-
-**Technologies:** HTML · CSS · JavaScript · Database Management
-
-[🔗 View Repository](#)
+| Competencia | Aplicación |
+|---|---|
+| 🤝 Trabajo en equipo | Colaboración en proyectos y cumplimiento de objetivos compartidos. |
+| 💬 Comunicación | Intercambio de ideas y disposición para recibir retroalimentación. |
+| 🧩 Resolución de problemas | Análisis de situaciones y búsqueda de soluciones. |
+| 🚀 Adaptabilidad | Disposición para aprender nuevas tecnologías y herramientas. |
+| 🎯 Responsabilidad | Compromiso con las actividades y entregables asignados. |
+| 📚 Aprendizaje continuo | Interés por fortalecer conocimientos y mejorar continuamente. |
+| 💡 Pensamiento analítico | Comprensión de requerimientos y organización de soluciones. |
 
 ---
 
-## 📋 Methodologies & Workflow
-
-- Agile methodologies – Scrum.
-- User Stories and requirements analysis.
-- Task management with Taiga.
-- Collaborative software development.
-- Version control with Git and GitHub.
-- Database modeling and management.
-
-## 📊 GitHub Statistics
+## 04. FEATURED PROJECTS | PROYECTOS DESTACADOS
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vannesasanabria83-sudo&show_icons=true&theme=transparent&hide_border=true&title_color=F59E0B&icon_color=F59E0B&text_color=808080" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannesasanabria83-sudo&layout=compact&theme=transparent&hide_border=true&title_color=F59E0B&text_color=808080" />
+  <img src="https://img.shields.io/badge/PROJECTS-REAL_WORLD_LEARNING-F5B942?style=for-the-badge&labelColor=000000" />
 </p>
 
-## 🔥 Contribution Activity
+### 🐾 EDEApro — Pet Grooming Management System
+
+**Sistema web para la gestión de una peluquería canina y felina.**
+
+Proyecto colaborativo orientado a optimizar la administración de servicios para mascotas, la gestión de clientes y el agendamiento de citas.
+
+**Mi participación:**
+- Desarrollo frontend y diseño de interfaces.
+- Construcción y organización de páginas web.
+- Implementación de elementos interactivos con JavaScript.
+- Apoyo en la integración de la interfaz con los servicios del sistema.
+- Trabajo colaborativo mediante Git y GitHub.
+
+**Tecnologías del proyecto:**
+
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `Laravel` `MySQL` `FullCalendar`
+
+**Repositorio:** [EDEApro en GitHub](https://github.com/celisfelipe/edeapro)
+
+---
+
+### 🚗 Veloce Motors — Automotive Web Project
+
+**Proyecto individual de desarrollo web enfocado en el sector automotriz.**
+
+Aplicación desarrollada como iniciativa de aprendizaje y práctica, en la que trabajé en la construcción de una solución web, fortaleciendo mis habilidades de programación, diseño y organización del código.
+
+**Mi participación:**
+- Desarrollo y estructuración de la aplicación.
+- Construcción de interfaces con HTML y CSS.
+- Implementación de funcionalidades mediante JavaScript.
+- Organización del proyecto y control de versiones.
+- Uso de herramientas de IA como apoyo al proceso de desarrollo y aprendizaje.
+
+**Tecnologías principales:**
+
+`HTML5` `CSS3` `JavaScript`
+
+**Repositorio:** [Veloce Motors en GitHub](https://github.com/vannesasanabria83-sudo/Veloce-Moters)
+
+---
+
+## 05. METHODOLOGIES & WORKFLOW
+
+- **Scrum:** Trabajo bajo principios de metodologías ágiles.
+- **User Stories:** Identificación y documentación de necesidades.
+- **Taiga:** Organización y seguimiento de actividades.
+- **Git & GitHub:** Control de versiones y colaboración.
+- **Database Modeling:** Diseño y organización de estructuras de datos.
+- **Software Development:** Análisis, diseño, desarrollo y pruebas.
+
+---
+
+## 06. GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vannesasanabria83-sudo&theme=transparent&hide_border=true&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" />
-</p>
-
-## 🎯 Professional Goals
-
-- Grow as a Full Stack Developer.
-- Gain professional experience through my SENA internship.
-- Strengthen my knowledge of software architecture and development.
-- Improve my skills in Python, Django, PHP and Laravel.
-- Participate in challenging projects and collaborative development teams.
-
-## 📬 Let's Connect!
-
-I'm open to professional opportunities, collaborative projects and new learning experiences.
-
-<p align="center">
-  <a href="mailto:vannesasanabria83@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/TU-PERFIL">💼 LinkedIn</a> •
-  <a href="https://github.com/vannesasanabria83-sudo">🐙 GitHub</a>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vannesasanabria83-sudo&show_icons=true&hide_border=true&bg_color=00000000&title_color=F5B942&icon_color=F5B942&text_color=FFFFFF&rank_icon=github" />
 </p>
 
 <p align="center">
-  <i>"Every line of code is an opportunity to learn, create and improve."</i>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannesasanabria83-sudo&layout=compact&hide_border=true&bg_color=00000000&title_color=F5B942&text_color=FFFFFF" />
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <img src="https://streak-stats.demolab.com?user=vannesasanabria83-sudo&hide_border=true&background=00000000&ring=F5B942&fire=F5B942&currStreakLabel=F5B942&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
+---
+
+## 07. PROFESSIONAL GOALS
+
+- Consolidar mis conocimientos en desarrollo Full Stack.
+- Fortalecer mis habilidades en PHP, Laravel, Python y Django.
+- Participar en equipos de desarrollo y proyectos tecnológicos.
+- Adquirir experiencia en entornos profesionales.
+- Mejorar continuamente mis prácticas de programación.
+- Contribuir a soluciones tecnológicas que generen valor.
+
+---
+
+## 08. LET'S CONNECT | CONECTEMOS
+
+Estoy abierta a nuevas oportunidades de aprendizaje, colaboración y crecimiento profesional.
+
+Si buscas una desarrolladora en formación con iniciativa, compromiso y disposición para aprender, ¡me encantará conectar contigo!
+
+<p align="center">
+  <a href="mailto:vannesasanabria83@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-F5B942?style=for-the-badge&logo=gmail&logoColor=000000" />
+  </a>
+  <a href="https://www.linkedin.com/in/TU-PERFIL">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=F5B942" />
+  </a>
+</p>
+
+<p align="center">
+  <b>✦ "Construir, aprender y mejorar: una línea de código a la vez."</b>
+</p>
+
+<p align="center">
+  <sub>Designed with passion by Sharith Moreno · © 2026</sub>
+</p>

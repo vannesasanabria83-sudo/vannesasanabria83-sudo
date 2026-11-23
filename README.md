@@ -1,4 +1,4 @@
-# ✦ SHARITH MORENO
+# ✦ SHARITH VANNESA MORENO SANABRIA
 ### Software Developer in Training | Web Development
 
 <p align="center">
